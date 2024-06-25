@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AbhyudaySir Aka Abhyuday Shukla
 - 👀 I’m interested in Java Software Development
-- 🌱 I’m currently learning DevOps Through Jenkins and Docker
+- 🌱 I’m currently learning Multithreading in Java 21
 - 💞️ I’m looking to collaborate on Spring boot softwares
 - 📫 How to reach me ... just ping
 
